@@ -1,0 +1,42 @@
+body {
+  font-family: Arial;
+  color: white;
+  background-color: black
+}
+
+table { 
+  width: 100%;
+ border: 0px;
+  padding: 6px;
+  
+
+
+}
+
+tr {
+
+  padding: 0px;
+
+}
+
+td {
+  width: 25%;
+  border: solid 2px;
+  border-color: white;
+  padding: 10px;
+  vertical-align: top;
+  
+}
+
+img {
+  position: middle;
+  border: solid 2px;
+  border-color: white;
+  height: 100;
+
+}
+
+h3 {
+  font-size: 12px;
+}
+
